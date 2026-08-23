@@ -101,15 +101,15 @@
 
 | 书架 | 阅读器 |
 |---|---|
-| ![书架](release/store-assets/screenshots/01-library.png) | ![阅读器](release/store-assets/screenshots/02-reader.png) |
+| ![书架](01-library.png) | ![阅读器](02-reader.png) |
 
 | 目录 | 排版设置 |
 |---|---|
-| ![目录](release/store-assets/screenshots/03-directory.png) | ![排版设置](release/store-assets/screenshots/04-reading-settings.png) |
+| ![目录](03-directory.png) | ![排版设置](04-reading-settings.png) |
 
 | 全书搜索 |
 |---|
-| ![搜索](release/store-assets/screenshots/05-search.png) |
+| ![搜索](05-search.png) |
 
 ## 支持格式
 
@@ -270,3 +270,4 @@ Repository
 - GitHub Issues：<https://github.com/karryHYX/moyu-reader/issues>
 - 隐私政策草稿：[`release/store-listing/privacy-policy-zh-CN.md`](release/store-listing/privacy-policy-zh-CN.md)
 - 商店资料：[`release/store-listing/`](release/store-listing/)
+
