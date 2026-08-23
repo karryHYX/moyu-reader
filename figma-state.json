@@ -1,0 +1,74 @@
+{
+  "runId": "moyu-figma-gate3-20260821",
+  "fileKey": "3WSyghIHa0a3RCF9s3V9OJ",
+  "fileUrl": "https://www.figma.com/design/3WSyghIHa0a3RCF9s3V9OJ",
+  "phase": "gate3",
+  "step": "gate3-ready-for-user-review",
+  "planConstraints": {
+    "physicalPageLimit": 3,
+    "logicalStructure": [
+      "00 — Cover",
+      "01 — Foundations",
+      "02 — Components",
+      "03 — Screens",
+      "04 — Prototype",
+      "05 — Handoff"
+    ]
+  },
+  "entities": {
+    "pages": {
+      "coverFoundations": "0:1",
+      "components": "5:2",
+      "screensPrototypeHandoff": "5:3"
+    },
+    "collections": {
+      "primitives": "VariableCollectionId:5:4",
+      "colorLight": "VariableCollectionId:5:32",
+      "colorDark": "VariableCollectionId:5:51",
+      "colorOLED": "VariableCollectionId:5:70",
+      "colorPaper": "VariableCollectionId:5:89",
+      "spacing": "VariableCollectionId:5:108",
+      "radius": "VariableCollectionId:5:119",
+      "motion": "VariableCollectionId:5:126"
+    },
+    "sections": {
+      "00 — Cover": "6:2",
+      "01 — Foundations": "6:24"
+    },
+    "components": {
+      "captureBoard": "11:2"
+    },
+    "screens": {
+      "captureBoard": "11:3",
+      "count": 35,
+      "themeSettingsIndex": 28
+    },
+    "prototype": {}
+  },
+  "localArtifacts": {
+    "interactiveComponents": "figma-capture/index.html?board=components",
+    "interactiveScreens": "figma-capture/index.html?board=screens",
+    "componentsBoardPng": "design/figma-components-board.png",
+    "screensBoardPng": "design/figma-screens-board.png",
+    "screenCount": 35,
+    "themeSettingScreen": 28
+  },
+  "completedSteps": [
+    "phase0-discovery",
+    "phase1-token-collections",
+    "phase1-text-styles",
+    "phase1-effect-styles",
+    "cover-section",
+    "foundations-documentation",
+    "local-component-board",
+    "local-screen-board",
+    "theme-setting-interaction",
+    "local-visual-qa",
+    "component-board-import",
+    "screen-board-import",
+    "figma-browser-qa"
+  ],
+  "pendingValidations": [
+    "user-design-approval"
+  ]
+}
